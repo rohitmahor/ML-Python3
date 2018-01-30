@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01ac36a4-e99d-4e51-bb2d-413e70341e1d" name="Default" comment="" />
+    <list default="true" id="01ac36a4-e99d-4e51-bb2d-413e70341e1d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/classification_template.R" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/classification_template.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/decision_tree_classification.R" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/decision_tree_classification.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/practise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/Social_Network_Ads.csv" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/classification_template.R" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/classification_template.R" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/classification_template.py" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/classification_template.py" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/naive_bayes.R" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/naive_bayes.R" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/naive_bayes.py" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/naive_bayes.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +28,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="practise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel-SVM/practise.py">
+        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="139">
+              <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
               <folding>
-                <element signature="e#27#45#0" expanded="true" />
+                <element signature="e#22#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,6 +71,9 @@
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/K_Nearest_Neighbors/practise.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/SVM/practise.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel-SVM/practise.py" />
+        <option value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py" />
+        <option value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/practise.py" />
+        <option value="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py" />
       </list>
     </option>
   </component>
@@ -78,8 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,19 +113,21 @@
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 18 - Naive Bayes" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 20 - Random Forest Classification" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 18 - Naive Bayes" type="462c0819:PsiDirectoryNode" />
-              <item name="Naive_Bayes" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 20 - Random Forest Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="Random_Forest_Classification" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,43 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practise (3)">
-    <configuration name="practise (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/K_Nearest_Neighbors" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine Learning A-Z Template Folder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 15 - K-Nearest Neighbors (K-NN)/K_Nearest_Neighbors/practise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="practise (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/SVM" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine Learning A-Z Template Folder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 16 - Support Vector Machine (SVM)/SVM/practise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.practise">
     <configuration name="practise (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,6 +166,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="practise (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning A-Z Template Folder" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="practise (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,12 +191,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning A-Z Template Folder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 2 - Regression/Section 9 - Random Forest Regression/practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/practise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,31 +209,49 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning A-Z Template Folder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 14 - Logistic Regression/Logistic_Regression/practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="random_forest_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning A-Z Template Folder" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/random_forest_classification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.practise (5)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.practise" />
-      <item index="2" class="java.lang.String" itemvalue="Python.practise (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.practise (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.practise (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.practise (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.practise (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.practise (5)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.practise" />
+      <item index="4" class="java.lang.String" itemvalue="Python.random_forest_classification" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.practise (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.practise (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.practise (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.practise" />
-        <item index="4" class="java.lang.String" itemvalue="Python.practise (5)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.practise" />
+        <item index="1" class="java.lang.String" itemvalue="Python.random_forest_classification" />
+        <item index="2" class="java.lang.String" itemvalue="Python.practise (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.practise (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.practise (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -253,22 +272,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="678" extended-state="6" />
+    <frame x="0" y="27" width="1366" height="678" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21518987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28181818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="291" height="478" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906765" sideWeight="0.5469697" order="2" side_tool="true" content_ui="tabs" x="0" y="280" width="1366" height="188" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43715847" sideWeight="0.48250186" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29143897" sideWeight="0.5502606" order="2" side_tool="true" content_ui="tabs" x="0" y="280" width="1366" height="188" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524158" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32906765" sideWeight="0.49143708" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32906765" sideWeight="0.4530303" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39670932" sideWeight="0.7189394" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3970856" sideWeight="0.4497394" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="291" height="478" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -296,11 +315,16 @@
           <line>12</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="33" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -314,65 +338,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/Multiple_Linear_Regression/practise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3/dist-packages/numpy/core/numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3438">
-          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3/dist-packages/numpy/lib/function_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90036">
-          <caret line="5002" column="0" lean-forward="false" selection-start-line="5002" selection-start-column="0" selection-end-line="5002" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/sklearn/preprocessing/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34830">
-          <caret line="1935" column="8" lean-forward="false" selection-start-line="1935" selection-start-column="8" selection-end-line="1935" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34542">
-          <caret line="1919" column="4" lean-forward="false" selection-start-line="1919" selection-start-column="4" selection-end-line="1919" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/categorical_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -510,13 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="252" column="0" lean-forward="false" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3/dist-packages/numpy/core/numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="1960" column="0" lean-forward="false" selection-start-line="1960" selection-start-column="0" selection-end-line="1960" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -678,10 +636,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel-SVM/practise.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/classification_template.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/classification_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/classification_template.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="7" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="58" column="23" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="68" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/random_forest_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="20" selection-end-column="29" />
           <folding>
-            <element signature="e#27#45#0" expanded="true" />
+            <element signature="e#58#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/classification_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="66" column="10" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+          <folding>
+            <element signature="e#22#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
