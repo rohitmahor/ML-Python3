@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01ac36a4-e99d-4e51-bb2d-413e70341e1d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/Social_Network_Ads.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/classification_template.R" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/classification_template.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/decision_tree_classification.R" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/decision_tree_classification.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/practise.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/Social_Network_Ads.csv" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Social_Network_Ads.csv" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/classification_template.R" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/classification_template.R" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/classification_template.py" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/classification_template.py" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/naive_bayes.R" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/naive_bayes.R" />
-      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/Naive_Bayes/naive_bayes.py" afterPath="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/naive_bayes.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +16,8 @@
       <file leaf-file-name="practise.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+            <state relative-caret-position="195">
+              <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
               <folding>
                 <element signature="e#22#40#0" expanded="true" />
               </folding>
@@ -97,6 +83,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,25 +97,10 @@
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
-              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 20 - Random Forest Classification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
-              <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 20 - Random Forest Classification" type="462c0819:PsiDirectoryNode" />
-              <item name="Random_Forest_Classification" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,20 +247,20 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="678" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28181818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28145942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="291" height="478" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906765" sideWeight="0.5469697" order="2" side_tool="true" content_ui="tabs" x="0" y="280" width="1366" height="188" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43715847" sideWeight="0.48250186" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906765" sideWeight="0.5469697" order="2" side_tool="true" content_ui="tabs" x="0" y="280" width="1366" height="188" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524158" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32906765" sideWeight="0.4530303" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39670932" sideWeight="0.7189394" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39670932" sideWeight="0.7189394" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="291" height="478" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -681,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="191" column="0" lean-forward="false" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,9 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="20" column="29" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="e#58#76#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,14 +668,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="66" column="10" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        <state relative-caret-position="195">
+          <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
           <folding>
             <element signature="e#22#40#0" expanded="true" />
           </folding>
