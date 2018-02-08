@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01ac36a4-e99d-4e51-bb2d-413e70341e1d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/practise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/practise.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Classification-Pros-Cons.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Part 3 - Classification/Clustering-Pros-Cons.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/practise.py" afterPath="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/practise.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="practise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py">
+        <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/practise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#22#40#0" expanded="true" />
               </folding>
@@ -60,6 +65,9 @@
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/practise.py" />
         <option value="$PROJECT_DIR$/Part 3 - Classification/Section 20 - Random Forest Classification/Random_Forest_Classification/practise.py" />
+        <option value="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/practise.py" />
+        <option value="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/practise.py" />
+        <option value="$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/practise.py" />
       </list>
     </option>
   </component>
@@ -83,8 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,10 +103,28 @@
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 3 - Classification" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 4 - Clustering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 5 - Association Rule Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="Part 5 - Association Rule Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 28 - Apriori" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,56 +144,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practise">
-    <configuration name="practise (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.practise (2)">
+    <configuration name="kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel-SVM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning A-Z Template Folder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 17 - Kernel SVM/Kernel-SVM/practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/kmeans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="practise (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practise (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning A-Z Template Folder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 18 - Naive Bayes/practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/practise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="practise (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practise (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning A-Z Template Folder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 3 - Classification/Section 19 - Decision Tree Classification/practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/practise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,19 +236,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.practise (3)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.practise (4)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.practise (5)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.practise" />
-      <item index="4" class="java.lang.String" itemvalue="Python.random_forest_classification" />
+      <item index="0" class="java.lang.String" itemvalue="Python.practise" />
+      <item index="1" class="java.lang.String" itemvalue="Python.random_forest_classification" />
+      <item index="2" class="java.lang.String" itemvalue="Python.practise (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.kmeans" />
+      <item index="4" class="java.lang.String" itemvalue="Python.practise (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.practise" />
-        <item index="1" class="java.lang.String" itemvalue="Python.random_forest_classification" />
-        <item index="2" class="java.lang.String" itemvalue="Python.practise (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.practise (5)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.practise (3)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.practise (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.practise (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.kmeans" />
+        <item index="3" class="java.lang.String" itemvalue="Python.practise" />
+        <item index="4" class="java.lang.String" itemvalue="Python.random_forest_classification" />
       </list>
     </recent_temporary>
   </component>
@@ -246,21 +270,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="678" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28145942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23636363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="291" height="478" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32906765" sideWeight="0.55" order="2" side_tool="true" content_ui="tabs" x="0" y="280" width="1366" height="188" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43715847" sideWeight="0.48250186" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906765" sideWeight="0.5469697" order="2" side_tool="true" content_ui="tabs" x="0" y="280" width="1366" height="188" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524158" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32906765" sideWeight="0.4530303" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906765" sideWeight="0.45" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39670932" sideWeight="0.7189394" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="291" height="478" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -311,69 +336,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/categorical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/sklearn/preprocessing/imputation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1332">
-          <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1247971763/gi/_gi/ObjectInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1247971763/PyQt5/QtDesigner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="792" column="6" lean-forward="false" selection-start-line="792" selection-start-column="6" selection-end-line="792" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/Data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/pandas/io/parsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="629" column="0" lean-forward="false" selection-start-line="629" selection-start-column="0" selection-end-line="629" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/sklearn/preprocessing/imputation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="74" column="3" lean-forward="false" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/dist-packages/sklearn/preprocessing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/Data_Preprocessing/categorical_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -675,6 +637,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/Mall_Customers.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/practise/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="31" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="e#22#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 4 - Clustering/Section 24 - K-Means Clustering/kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="51" column="12" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="51" selection-end-column="12" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 4 - Clustering/Section 25 - Hierarchical Clustering/practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="28" column="73" lean-forward="false" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+          <folding>
+            <element signature="e#22#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/apyori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7623">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#88#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/Market_Basket_Optimisation.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 5 - Association Rule Learning/Section 28 - Apriori/practise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#22#40#0" expanded="true" />
           </folding>
